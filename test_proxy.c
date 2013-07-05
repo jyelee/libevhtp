@@ -4,6 +4,7 @@
 #include <stdint.h>
 #include <errno.h>
 #include <evhtp.h>
+#include <signal.h>
 
 
 int
